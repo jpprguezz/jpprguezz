@@ -3,6 +3,8 @@
 
 ### Programming languages that I'm studying
 
-[!](https://pin.it/55dMiWk)
+<img src="https://pin.it/55dMiWk">
+
+
 
 
