@@ -1,6 +1,7 @@
 ### Hi, I'm jpprguezz
 ## Estoy estudiando Desarrollo de Aplicaciones Web, aprendiendo poco a poco
-<a href=>https://github.com/jpprguezz/jpprguezz/edit/main/README.md><strong>https://pin.it/1WuiZQo</strong></a>
+![](https://github.com/jpprguezz/jpprguezz/assets/145053972/e80ed21f-9b29-48ad-b797-868278dde6a1)
+
 
 
 
