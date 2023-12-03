@@ -3,6 +3,6 @@
 
 ### Programming languages that I'm studying
 
-![](https://pin.it/55dMiWk)
+[!](https://pin.it/55dMiWk)
 
 
