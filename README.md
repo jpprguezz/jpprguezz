@@ -1,10 +1,12 @@
-# Hi, I'm José!!! 🦦
-## I'm studying Programming destined to develop web applications.
-
-### Programming languages that I'm studying
-
-<img src="https://pin.it/55dMiWk">
+### Hi, I'm jpprguezz
+## Estoy estudiando Desarrollo de Aplicaciones Web, aprendiendo poco a poco
+<a href=>https://github.com/jpprguezz/jpprguezz/edit/main/README.md><strong>https://pin.it/1WuiZQo</strong></a>
 
 
 
 
+
+
+  
+</body>  
+</html>
