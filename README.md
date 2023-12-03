@@ -4,8 +4,8 @@
 ### Lenguajes que estoy aprendiendo 
  </p>
     <div style="display: flex; justify-content: center;">
-    <img src=".width: 100px; height: 100px;">
-    <img src=".![markdown_logo_icon_247779](https://github.com/jpprguezz/jpprguezz/assets/145053972/42bc6985-8eb9-4b98-af17-ad3ec47e9415)" style="width: 130px; height: 100px;">
+    <img src="Users\José\Desktop\HTML5_logo_and_wordmark (1)" width: 100px; height: 100px;">
+    <img src=".">
     <img src="." style="width: 100px; height: 100px;">
     <img src="." style="width: 150px; height: 100px;">
     <img src="." style="width: 100px; height:100px;">
