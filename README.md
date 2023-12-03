@@ -6,11 +6,11 @@
 ### Lenguajes que estoy aprendiendo 
  </p>
     <div style="display: flex; justify-content: center;">
-    <img src=".C:\Users\José\Desktop" style="width: 100px; height: 100px;">
-    <img src=".C:\Users\José\Desktop" style="width: 130px; height: 100px;">
-    <img src=".C:\Users\José\Desktop" style="width: 100px; height: 100px;">
-    <img src=".C:\Users\José\Desktop" style="width: 150px; height: 100px;">
-    <img src=".C:\Users\José\Desktop" style="width: 100px; height:100px;">
+    <img src=".\Users\José\Desktop" style="width: 100px; height: 100px;">
+    <img src=".\Users\José\Desktop" style="width: 130px; height: 100px;">
+    <img src=".\Users\José\Desktop" style="width: 100px; height: 100px;">
+    <img src=".\Users\José\Desktop" style="width: 150px; height: 100px;">
+    <img src=".\Users\José\Desktop" style="width: 100px; height:100px;">
 </div>
 
 
