@@ -1,4 +1,4 @@
-<div style="float: center;">
+
 # Hi, I'm jpprguezz 🦦 !!!
 ### Estoy estudiando Desarrollo de Aplicaciones Web, aprendiendo poco a poco y entrando en este maravilloso mundo
 ![Tbh Creature Autism Creature GIF - Tbh Creature Autism Creature Yipee - Descubrir y compartir GIFs](https://github.com/jpprguezz/jpprguezz/assets/145053972/626c263d-f66c-4d35-8f28-24304fbef872)
