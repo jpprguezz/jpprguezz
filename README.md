@@ -1,9 +1,31 @@
+<h2 align="left">!Hola! Mi nombre es jpprguezz 👋</h2>
 
-# Hi, I'm jpprguezz 🦦 !!!
-### Estoy estudiando Desarrollo de Aplicaciones Web, aprendiendo poco a poco y entrando en este maravilloso mundo
+###
 
-![aeb37289f1f87344fd6168c8c555fe17](https://github.com/jpprguezz/jpprguezz/assets/145053972/0fbbd5d6-ef3d-4b1e-a0a6-edcdf86e6e53)
-
-#### Tencologías que estoy aprendiendo 
-<img src="https://imgs.search.brave.com/M-FiGkB1jPVADW6xtp-i7TJcdhipqz463z8s2cuR3WY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MTUyZmNlZjEw/MTRjMGI1ZTQ5Njcu/cG5n" width="7%"><img src="https://imgs.search.brave.com/ciyItbhMDb3fSqzUE37uT84OXNMECLg1um_OsvXpCoI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9sb2dvLW1h/cmtkb3duLWljb24t/MTAyNHg3NjktdXJ4/dXV1ZTkucG5n" width="7%"><img src="https://imgs.search.brave.com/ABgCyoMU-LJ_8LXhwpI8x0OwsXpatPpb_4U6uahwQgI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNy8w/OC8wNS8xMS8xNi9s/b2dvLTI1ODI3NDhf/NjQwLnBuZw" width="7%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpprguezz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/564x/83/77/3d/83773dd4cfc46e55b5ac63e5d7f1657c.jpg"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jpprguezz/jpprguezz/output/snake.svg" alt="Snake animation" />
+
+###
