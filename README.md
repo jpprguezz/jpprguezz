@@ -19,7 +19,7 @@
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/564x/83/77/3d/83773dd4cfc46e55b5ac63e5d7f1657c.jpg"  />
-<img align="right" height="150" src="https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/81d5f2ece6311ba5585470c6b231b90d.jpg?imageView2/2/w/500/q/60/format/webp"  />
+
 
 
 ###
