@@ -1,9 +1,7 @@
 <h1 align="center">Hola, soy José</h1>
 <h3 align="center">Apasionado de la programación</h3>
 
-- 🔭 Actualmente estudiando **Desarrollo Web**
-
-- 🌱 Aprendiendo actualmente **Python**
+- 🔭 Actualmente estudiando **Desarrollo Web**, centrado en  **Python**
 
 
 <p align="left">
