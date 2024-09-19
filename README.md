@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/71/31/77/713177e7b221e3d2570237268fd19c6e.gif" width="300"/>
 </p>
 <p align="center">
-  - 🔭 Actualmente estudiando Desarrollo Web, centrado en Python
+   🔭 Actualmente estudiando Desarrollo Web, centrado en Python
 </p>
 <div align="center">
 <h3>Lenguajes/herramientas que se usar:</h3>
