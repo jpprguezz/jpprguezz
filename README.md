@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy José</h1>
 <h3 align="center">Apasionado de la programación</h3>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/71/31/77/713177e7b221e3d2570237268fd19c6e.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/c9/ca/29/c9ca29d3b57e8f5cbbea061350db8d34.gif" width="350"/>
 </p>
 <p align="center">
    🔭 Actualmente estudiando Desarrollo Web, centrado en Python
