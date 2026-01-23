@@ -66,4 +66,11 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
+    <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40" height="40"/>
+  </a>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="40" height="40"/>
+  </a>
 </p>
